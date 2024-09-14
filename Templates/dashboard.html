@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Challenges</title>
+</head>
+<body>
+    <h1>Challenges</h1>
+    <a href="/leaderboard">Leaderboard</a> | <a href="/logout">Logout</a>
+    <ul>
+        {% for challenge in challenges %}
+            <li>
+                <h2>{{ challenge[1] }}</h2>
+                <p>{{ challenge[2] }}</p>
+                <form action="/submit_flag" method="post">
+                    <input type="hidden" name="challenge_id" value="{{ challenge[0] }}">
+                    <label for="flag">Submit Flag:</label>
+                    <input type="text" id="flag" name="flag" required>
+                    <button type="submit">Submit</button>
+                </form>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
