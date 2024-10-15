@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>CTF Platform</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>CTF Challenge</title>
 </head>
 <body>
-    <h1>Welcome to Capture The Flag</h1>
-    <a href="/register">Register</a> | <a href="/login">Login</a>
+    <div class="container">
+        <h1>Welcome to CTF Challenge</h1>
+        <a href="/login" class="btn">Login to Start</a>
+    </div>
 </body>
 </html>

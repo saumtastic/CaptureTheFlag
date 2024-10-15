@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="542bc94d-c938-4d75-a034-5e6bdc12149d" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/CaptureTheFlag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CaptureTheFlag.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarryStlyes.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/leaderboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/leaderboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/leaderboard.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctf.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2m4inFX7fsPg7LoleXwOsTYPCzO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,7 +39,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.lab.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/91620/PycharmProjects/CaptureTheFlag",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -44,6 +50,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91620\PycharmProjects\CaptureTheFlag" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
